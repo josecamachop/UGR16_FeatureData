@@ -3,11 +3,13 @@
 
 This repository contains the four feature data variants of UGR'16 used in the following papers:
 
-- Camacho, Wasielewska, Espinosa, Fuentes-Garc�a. Quality In / Quality Out: Data quality more relevant than model choice in anomaly detection with the UGR�16. IEEE/IFIP Network Operations and Management Symposium. Miami, USA. 2023. 
+- Camacho, Wasielewska, Espinosa, Fuentes-García. Quality In / Quality Out: Data quality more relevant than model choice in anomaly detection with the UGR’16. IEEE/IFIP Network Operations and Management Symposium. Miami, USA. 2023. 
 
-- Camacho, Wasielewska, Fuentes-Garc�a, Rodr�guez-G�mez. Quality In / Quality Out: Assessing Data Quality in an Anomaly Detection Benchmark. arXiv preprint arXiv:... [stat.ML]
+- Camacho, Wasielewska, Fuentes-García, Rodríguez-Gómez. Quality In / Quality Out: Assessing Data Quality in an Anomaly Detection Benchmark. arXiv preprint arXiv:... [stat.ML]
 
-Please, make sure to reference the last paper when using the data.
+Please, make sure to reference the last paper when using the data, and also the original paper of UGR'16:
+
+- Maciá-Fernández, G., Camacho, J., Magán-Carrión, R., García-Teodoro, P., Therón, R. Ugr'16: a new dataset for the evaluation of cyclostationarity-based network IDSs. Computer & Security, 2018, 73: 411-424.
 
 Data is provided in Malab format, csv format and excel format.
 
@@ -15,7 +17,7 @@ The original UGR'16 can be downloaded from https://nesg.ugr.es/nesg-ugr16/index.
 
 A new version with updated nfcapd format can be found at https://codas.ugr.es/animalicos/en/results#datasets
 
-Contact person: Jos� Camacho (josecamacho@ugr.es)
+Contact person: José Camacho (josecamacho@ugr.es)
 
 Last modification of this document: 26/May/23
 
