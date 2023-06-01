@@ -5,7 +5,7 @@ This repository contains the four feature data variants of UGR'16 used in the fo
 
 - Camacho, Wasielewska, Espinosa, Fuentes-García. Quality In / Quality Out: Data quality more relevant than model choice in anomaly detection with the UGR’16. IEEE/IFIP Network Operations and Management Symposium. Miami, USA. 2023. 
 
-- Camacho, Wasielewska, Fuentes-García, Rodríguez-Gómez. Quality In / Quality Out: Assessing Data Quality in an Anomaly Detection Benchmark. arXiv preprint arXiv:2305.19770 [cs.LG]
+- Camacho, Wasielewska, Fuentes-García, Rodríguez-Gómez. Quality In / Quality Out: Assessing Data Quality in an Anomaly Detection Benchmark. arXiv preprint arXiv:2305.19770 [cs.LG], 2023.
 
 Please, make sure to reference the last paper when using the data, and also the original paper of UGR'16:
 
